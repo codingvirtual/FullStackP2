@@ -100,3 +100,4 @@ execute properly.
 tournament.sql was also provided by Udacity with only the comments you
 see at the top of the file. This author added all of the psql commands
 for creating the database and associated tables and views.
+---
